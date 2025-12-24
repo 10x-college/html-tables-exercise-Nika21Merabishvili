@@ -61,7 +61,7 @@
 
 ---
 
-### 5. 📜 Phase 5: The Quest Log (Lists)
+
 
 **Objective:** Use ordered, unordered, and nested lists.
 
